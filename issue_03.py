@@ -1,6 +1,5 @@
-# test_count_letters_unit.py
-from one_hot_encoder import fit_transform
 import unittest
+from one_hot_encoder import fit_transform
 
 
 class TestFitTransform(unittest.TestCase):

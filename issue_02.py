@@ -1,5 +1,5 @@
-from morse import decode
 import pytest
+from morse import decode
 
 
 @pytest.mark.parametrize(
